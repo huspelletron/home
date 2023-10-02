@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseURL: 'https://maygiatoc.com/home' # Website URL
-canonifyURLs: true
+# canonifyURLs: true
 
 ############################
 ## LANGUAGE
