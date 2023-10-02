@@ -5,6 +5,7 @@
 
 title: Academic # Website name
 baseURL: 'https://maygiatoc.com/home' # Website URL
+canonifyURLs: true
 
 ############################
 ## LANGUAGE
@@ -12,7 +13,7 @@ baseURL: 'https://maygiatoc.com/home' # Website URL
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
